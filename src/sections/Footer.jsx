@@ -15,7 +15,7 @@ const Footer = () => {
           </a>
         ))}
       </div>
-      <p>© 2025 Shakti. All rights reserved.</p>
+      <p>© 2025 Shakti Prosad Dey. All rights reserved.</p>
     </section>
   );
 };
