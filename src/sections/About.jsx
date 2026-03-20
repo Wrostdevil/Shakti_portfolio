@@ -21,6 +21,7 @@ const About = () => {
             <p className="subtext">
               Over the last 4 years, I developed my frontend and backend dev
               skills to deliver dynamic and software and web applications.
+              I am a IT 
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
@@ -32,7 +33,7 @@ const About = () => {
             className="flex items-center justify-center w-full h-full"
           >
             <p className="flex items-end text-5xl text-gray-500">
-              CODE IS CRAFT
+              Code is my language — innovation is my voice
             </p>
             <Card
               style={{ rotate: "75deg", top: "30%", left: "20%" }}
